@@ -4,7 +4,7 @@
   # 🚀 TeleForward Pro
   ## *The Ultimate Telegram Content Synchronization Solution*
   
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/XredaX/TeleForward-Pro/&label=VISITORS&countColor=%23263759)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXredaX%2FTeleGrowth-Pro&label=VISITORS&countColor=%23263759)
 </div>
 
 Automate your Telegram channel management with our enterprise-grade bot that instantly forwards and synchronizes content between channels in real-time with perfect accuracy.
