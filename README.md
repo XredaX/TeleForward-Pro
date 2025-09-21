@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" width="120" height="120">
   
-  # 🚀 TeleSync Pro
+  # 🚀 TeleForward Pro
   ## *The Ultimate Telegram Content Synchronization Solution*
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXredaX%2FTeleSync-Pro&label=VISITORS&countColor=%23263759)
@@ -9,13 +9,13 @@
 
 Automate your Telegram channel management with our enterprise-grade bot that instantly forwards and synchronizes content between channels in real-time with perfect accuracy.
 
-### 💰 **Why Choose TeleSync Pro?**
+### 💰 **Why Choose TeleForward Pro?**
 
 <div align="center">
 <table>
 <tr>
 <th>❌ <strong>Manual Management Problems</strong></th>
-<th>✅ <strong>TeleSync Pro Solutions</strong></th>
+<th>✅ <strong>TeleForward Pro Solutions</strong></th>
 </tr>
 <tr>
 <td><strong>Missing Important Messages</strong><br>
@@ -81,7 +81,7 @@ Handle unlimited channels effortlessly</td>
 - **Status Monitoring**: Get instant alerts and system notifications
 
 <div align="center">
-<img src="dashboard.png" alt="TeleSync Pro Dashboard" width="600">
+<img src="dashboard.png" alt="TeleForward Pro Dashboard" width="600">
 <br><em>Professional Dashboard Interface - Control Everything From Telegram</em>
 </div>
 
@@ -188,7 +188,7 @@ Handle unlimited channels effortlessly</td>
 ## ⚖️ **Legal & Compliance**
 
 ### **📋 Intended Use & Responsibility:**
-- **TeleSync Pro is designed for use on YOUR OWN channels only**
+- **TeleForward Pro is designed for use on YOUR OWN channels only**
 - Use this bot to synchronize content between your source and target channels
 - **We are NOT responsible for any consequences if you use this bot on channels you don't own**
 - Users must have full ownership and administrative rights to both source and target channels
@@ -197,4 +197,4 @@ Handle unlimited channels effortlessly</td>
 
 ---
 
-*© 2025 TeleSync Pro. All rights reserved. Telegram is a trademark of Telegram FZ-LLC.*
+*© 2025 TeleForward Pro. All rights reserved. Telegram is a trademark of Telegram FZ-LLC.*
